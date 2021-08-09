@@ -1,3 +1,11 @@
+I have complete this project as per requirements.Basically,in this project build.sbt contains three library dependencies and that are  akka-actor-typed, akka-persistence-typed, scalactic and  also contains three  test dependencies scalatest, akka-actor-testkit-typed and akka-persistence-testkit.
+
+The plugin.sbt contains two plugins codesquad-sbt-plugin and scalastyle-sbt-plugin.
+
+
+The process which I follow to complete this project  as below
+
+
 - Create a module namely, actor.
 
 - Add library dependencies for akka-actor-typed, akka-persistence-typed and scalactic
